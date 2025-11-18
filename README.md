@@ -28,7 +28,7 @@ make install
 To test
 
 ```bash
-psql -U [username] -d [databasename] -f test.sql 
+psql -U [username] -d [databasename] -f test/test.sql 
 ```
 
 Manually test
