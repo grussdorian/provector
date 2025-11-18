@@ -1,0 +1,9 @@
+*.so
+*.dSYM
+*.o
+*.obj
+*.dll
+*.exe
+*.log
+*.out
+*.dylib
